@@ -1,6 +1,6 @@
 # Google Maps Restaurant Scraper System
 
-A comprehensive system for scraping Caribbean restaurant data from Google Maps across multiple UK cities. This project includes strategic batching, session resumption, data conversion, and merging capabilities to efficiently collect restaurant information while avoiding rate limiting.
+A comprehensive system for scraping restaurant data from Google Maps across multiple UK cities. This project includes strategic batching, session resumption, data conversion, and merging capabilities to efficiently collect restaurant information while avoiding rate limiting. (Can be used for other industries not just restaurants)
 
 ## Features
 
