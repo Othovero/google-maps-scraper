@@ -1,0 +1,59 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Crawl4AI related files (exclude as requested)
+main.py
+scraper.py
+test_crawl4ai.py
+
+# Output files (results from scraping)
+restaurants_*.json
+restaurants_*.csv
+all_restaurants.xlsx
+*.log
+scraper_progress.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Chrome driver downloads
+chromedriver* 
